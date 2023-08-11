@@ -31,7 +31,7 @@ Cyclic pre-provision AWS serverless infrastructure to make every deployment, eve
 
 ## Check The Website
 
-You can access the live version of this website by click link: https:.
+You can access the REST API from Cyclic by click link: (https://kind-teal-bullfrog-garb.cyclic.app)
 
 
 ***
