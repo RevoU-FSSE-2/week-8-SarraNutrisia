@@ -31,7 +31,7 @@ Cyclic pre-provision AWS serverless infrastructure to make every deployment, eve
 
 ## Check The Website
 
-You can access the REST API from Cyclic by click link: URL : (https://better-toga-tick.cyclic.app), App Repo : (https://github.com/SarraNutrisia/SarraNutrisia-REST-API-Dapur-Turki-Week-8-SarraNutrisia).
+You can access the REST API from Cyclic by click link: URL : (https://rich-erin-squid-kit.cyclic.app), App Repo : (https://github.com/SarraNutrisia/starter-express-api).
 
 
 ***
